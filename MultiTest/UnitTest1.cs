@@ -1,6 +1,6 @@
 using System;
 using Xunit;
-using static lab03_challenges.Program;
+using static lab03-challenges.Program;
 namespace MultiTest
 {
     public class UnitTest1
